@@ -1,3 +1,4 @@
+// Check Score
 function getScore(input2){
     var input = input2;
     var newScore = 0;
