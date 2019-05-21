@@ -1,2 +1,2 @@
 # Github Pages
-[![YL's Pages](http://brand.phodal.com/shields/idea-small.svg)](https://FaDrYL.github.io/Pages-test/)
+[![YL's Pages](https://brand.phodal.com/titles/generate/cover/greensea.svg)](https://FaDrYL.github.io/Pages-test/)
